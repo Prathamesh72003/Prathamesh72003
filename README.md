@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://iili.io/Y09YFf.png "Header")
+![Header](https://iili.io/Y0dc8v.png "Header")
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Android
 - 📫 How to reach me
