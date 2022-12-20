@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ![Header](https://iili.io/Y0dc8v.png "Header")
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning DSA
-- 👯 Looking for cool collaborations!
+- 🔭 I’m currently working on App Development
+- 🌱 I’m currently into DSA
+- 👯 Looking for cool collaborations, Let's code!
 - 📫 How to reach me
    - Linkedin: https://www.linkedin.com/in/prathamesh-thakare-9700b5224/
    - Github: https://github.com/Prathamesh72003
