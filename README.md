@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ![Header](https://iili.io/Y0dc8v.png "Header")
-- 🔭 I’m currently working on App Development
-- 🌱 I’m currently into DSA
+- 🔭 I’m currently working on MERN Stack
+- 🌱 Into DSA competitive
+- 💬 Ask me about React for web and app (Js and Native)
 - 👯 Looking for cool collaborations, Let's code!
 - 📫 How to reach me
-   - Linkedin: https://www.linkedin.com/in/prathamesh-thakare-9700b5224/
+   - Linkedin: https://www.linkedin.com/in/prathamesh-prabhakar-thakare/
    - Github: https://github.com/Prathamesh72003
-   - Twitter: https://twitter.com/Pratham46166223
+   - Twitter: https://twitter.com/heyy_prathammm
