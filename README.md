@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](https://iili.io/Y0dc8v.png "Header")
+<!-- ![Header](https://iili.io/Y0dc8v.png "Header") -->
+![Header](https://i.ibb.co/nRgPQwk/ucover.jpg "Header")
 - 🔭 I’m currently working on MERN Stack
 - 🌱 Into DSA competitive
 - 💬 Ask me about React for web and app (Js and Native)
