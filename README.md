@@ -1,87 +1,58 @@
-<p>
-  <picture>
-    <source
-      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋...+it's+Prathameshhh+:)&fontSize=30&height=50"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=Howdy+👋...+it's+Prathameshhh+:)&fontSize=30&height=50"
-      media="(prefers-color-scheme: light)"
-    />
-    <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFFFFF&text=Howdy+👋...+it's+Prathameshhh+:)&fontSize=30&height=50" />
-  </picture>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Howdy%20👋%20I'm%20Prathamesh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+</div>
+
+<h3 align="center">Computer Engineer | MERN Full Stack Developer | AI & Deep Learning Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Prathamesh72003">
-    <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=27&duration=2000&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Computer+Engineer;MERN+FullStack;Enthusiastic+about+AIGAMES+%7C+Deep+Learning;Let's+Codeee!!;" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=Always+Learning;Passionate+Coder;AI+%26+Deep+Learning+Explorer" alt="Typing SVG" />
+  </a>
 </p>
 
-## GIT Stats
-</br>
+## 🚀 About Me
+
+I'm a passionate computer engineer and MERN stack developer with a keen interest in AI and Deep Learning. Always eager to learn and code, I love tackling challenging projects and exploring new technologies.
+
 <div align="center">
-
-
-  <img src="https://streak-stats.demolab.com?user=Prathamesh72003&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<br/>
-
-## Languages-Frameworks-Tools
-</br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <a href="https://github.com/Prathamesh72003" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
+  </a>
 </div>
 
-###
-</br>
+## 🛠️ Skills & Technologies
 
-## Joke of The Day!
-</br>
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="100%"/>
-<!--
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,opencv,tensorflow,mongodb,firebase,postgres,mysql,html,css,js,nodejs,react,prisma,nextjs,spring,docker&perline=9" alt="Skills" />
+</div>
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh72003&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Prathamesh72003 github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh72003&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Prathamesh72003 top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh72003&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Prathamesh72003 trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh72003&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Prathamesh72003 Activity Graph" />
+</div>
+
+## 😄 Joke of the Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+</div>
