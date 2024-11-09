@@ -15,13 +15,16 @@
 I'm a passionate computer engineer and MERN stack developer with a keen interest in AI and Deep Learning. Always eager to learn and code, I love tackling challenging projects and exploring new technologies.
 
 <div align="center">
+  <a href="https://prathamesh-portfolio-jet.vercel.app/" target="_blank">
+    <img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/Prathamesh72003" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/prathamesh-prabhakar-thakare/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:pthakare72003@gmal.com" target="_blank">
     <img src=https://img.shields.io/badge/email-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
   </a>
 </div>
@@ -35,16 +38,16 @@ I'm a passionate computer engineer and MERN stack developer with a keen interest
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh72003&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Prathamesh72003 github stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh72003&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Prathamesh72003 top languages" />
-</div>
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Prathamesh72003&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Prathamesh72003's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh72003&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
+  </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh72003&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Prathamesh72003 trophies" />
-</div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh72003&theme=radical&no-frame=true&no-bg=true&row=1&column=3&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Stars" alt="GitHub Trophies" />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh72003&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Prathamesh72003 Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh72003&bg_color=0d1117&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 😄 Joke of the Day
